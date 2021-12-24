@@ -1,0 +1,15 @@
+{
+  "name": "testing-kafka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
